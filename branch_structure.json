@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-96-add-transaction-history-display-to-web-claim",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-96-add-transaction-history-display-to-web-claim": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-96-add-transaction-history-display-to-web-claim",
+    "origin"
+  ]
+}
